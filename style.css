@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right,#121212,#1e2f42) ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+}
+p{
+    text-align: center;
+    font-size:25px;
+    
+}
